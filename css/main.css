@@ -1,0 +1,18 @@
+.hero-text {
+  font-size: 32px;
+  font-family: Inter,sans-serif
+}
+.hero-p {
+  font-size: 18px
+}
+.hero-img {
+  min-width: 250px;
+  min-height: 300px
+}
+
+
+.footer-p {
+  font-size: 14px
+}
+
+
